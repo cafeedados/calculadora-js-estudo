@@ -36,3 +36,5 @@ function calcular (tipo, valor) { //pois tem bototes de valor e de acao
 
 
 }
+
+
